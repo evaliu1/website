@@ -1,0 +1,217 @@
+
+
+* {
+   
+-webkit-box-sizing: border-box;
+    
+-moz-box-sizing: border-box;
+   
+-ms-box-sizing: border-box;
+    
+box-sizing: border-box;
+
+}
+
+
+
+@media only screen and (max-width: 500px){
+	.sfu_img{
+	display: none;
+	}
+
+	.fic_img{
+	margin-top: 50px;
+	display: none;
+	}
+}
+
+.container{
+margin-left:300px;
+margin-right:200px;
+margin-bottom: 0;
+margin-top: 100px;
+}
+
+
+
+.row {
+   
+width: 100%;
+       
+display: block;
+
+}
+
+
+.title1 {
+   
+width: 100%;
+       
+display: flex;
+
+margin-bottom: 0;
+margin-top: 0;
+}
+
+.title {
+   
+width: 100%;
+       
+display: flex;
+margin-top: 0;
+}
+
+
+
+.title_heroimg{
+width: 100%;
+       
+display: flex;
+margin-top: 0;
+margin-left:100px;
+margin-right:0;
+}
+
+
+.col-1 {
+    
+width: 8.33%;
+
+}
+
+
+
+.col-2 {
+    
+width: 16.66%;
+
+}
+
+
+
+.col-3 {
+    
+width: 25%;
+
+}
+
+
+
+.col-4 {
+    
+width: 33.33%;
+
+}
+
+
+
+.col-5 {
+    
+width: 41.66%;
+
+}
+
+
+
+.col-6 {
+    
+width: 50%;
+
+}
+
+
+
+.col-7 {
+    
+width: 58.33%;
+
+}
+
+
+
+.col-8 {
+    
+width: 66.66%;
+
+}
+
+
+
+.col-9 {
+    
+width: 75%;
+
+}
+
+
+
+.col-10 {
+    
+width: 83.33%;
+
+}
+
+
+
+.col-11 {
+    
+width: 91.66%;
+
+}
+
+
+
+.col-12 {
+    
+width: 100%;
+}
+
+
+
+body{
+
+color:black;
+font-family: Verdana, Arial, Geneva, Arial Black;
+font-weight: normal;
+margin-top: 0;
+margin-bottom: 0;
+margin-left: auto;
+margin-right: 0;
+background-color: white;
+font-size: 25px;
+
+}
+
+
+h1{
+font-size: 1.0em;
+background-color:white;
+margin-top: 0;
+}
+
+.header{
+font-size: 1.3em;
+font-weight: 200;
+font-family:impact;
+color:black;
+margin-bottom:20px;
+}
+
+
+.descr{
+font-size: 87%;
+font-weight: 200;
+color:#555;
+font-family: Arial;
+margin-left: 100px;
+margin-bottom:100px;
+}
+
+
+.img{
+margin-top: 0;
+margin-bottom: 0;
+margin-left: 100px;
+margin-right: 100px;
+
+}
